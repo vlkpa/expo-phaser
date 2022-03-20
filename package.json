@@ -4,7 +4,9 @@
   "description": "Build awesome 2D games with Phaser.js and Expo",
   "author": "Evan Bacon <bacon@expo.io> (https://expo.io/)",
   "license": "MIT",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "main": "lib/index.js",
   "keywords": [
     "react",
@@ -32,7 +34,7 @@
     "url": "https://github.com/expo/expo-phaser.git"
   },
   "dependencies": {
-    "@expo/browser-polyfill": "^0.0.0-alpha.4",
+    "@expo/browser-polyfill": "^1.0.0",
     "phaser-ce": "^2.9.4"
   },
   "directories": {
